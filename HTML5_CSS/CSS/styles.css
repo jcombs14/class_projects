@@ -1,0 +1,70 @@
+body {
+    background-color: #3574F2 ;
+}
+
+#container {
+    background-color: #F2E2C4;
+    width: 1400px;
+    margin: 20px auto;
+    border: 4px solid #F21616;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header h1 {
+    font-size: 50px;
+}
+
+nav {
+    text-align: center;
+    border-top: 4px solid #F21616;
+    border-bottom: 4px solid #F21616;
+    padding: 10px 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+nav a {
+    font-size: 20px;
+}
+
+nav a:hover {
+    color: #F21616;
+}
+
+main a:hover {
+    color: #F21616;
+}
+
+main {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+main h3 {
+    text-align: center;
+}
+
+main h4 {
+    text-align: center;
+}
+
+main img {
+    display: block;
+    margin: 20px auto;
+    width: 700px;
+}
+
+header img {
+    display: block;
+    margin: 20px auto;
+    width: 900px;
+}
+
+footer {
+    padding: 10px;
+    text-align: center;
+}

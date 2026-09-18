@@ -109,15 +109,13 @@ footer {
         margin: 20px auto;
     }
 
-    .membrs{
-        section, aside {
-            border-radius: 20px;
-            border: 4px solid #F21616;
-            margin: 10px;
-            padding: 10px;
-        }
-    }
-
+    .membrs section,
+    .membrs aside {
+    border-radius: 20px;
+    border: 4px solid #F21616;
+    margin: 10px;
+    padding: 10px;
+}
     .multi_col {
         display: flex;
     }
